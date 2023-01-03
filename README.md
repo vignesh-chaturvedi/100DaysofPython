@@ -12,27 +12,52 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 ## Log
 
 **Day 1 - January 5, 2023:**
+
 **Day 2 - January 6, 2023:**
+
 **Day 3 - January 7, 2023:**
+
 **Day 4 - January 8, 2023:**
+
 **Day 5 - January 9, 2023:**
+
 **Day 6 - January 10, 2023:**
+
 **Day 7 - January 11, 2023:**
+
 **Day 8 - January 12, 2023:**
+
 **Day 9 - January 13, 2023:**
+
 **Day 10 - January 14, 2023:**
+
 **Day 11 - January 15, 2023:**
+
 **Day 12 - January 16, 2023:**
+
 **Day 13 - January 17, 2023:**
+
 **Day 14 - January 18, 2023:**
+
 **Day 15 - January 19, 2023:**
+
 **Day 16 - January 20, 2023:**
+
 **Day 17 - January 21, 2023:**
+
 **Day 18 - January 22, 2023:**
+
 **Day 19 - January 23, 2023:**
+
 **Day 20 - January 24, 2023:**
+
 **Day 21 - January 25, 2023:**
+
 **Day 22 - January 26, 2023:**
+
 **Day 23 - January 27, 2023:**
+
 **Day 24 - January 28, 2023:**
+
 **Day 25 - January 29, 2023:**
+
