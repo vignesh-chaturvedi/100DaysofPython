@@ -11,7 +11,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 ## Log
 
-**Day 1 - January 5, 2023:**
+**Day 1 - January 5, 2023:** Working with Variables in Python to Manage Data || Project: Band Name Generator
 
 **Day 2 - January 6, 2023:**
 
