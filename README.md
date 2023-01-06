@@ -13,7 +13,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 1 - January 5, 2023:** Working with Variables in Python to Manage Data || Project: Band Name Generator
 
-**Day 2 - January 6, 2023:**
+**Day 2 - January 6, 2023:** Understanding Data Types and How to Manipulate Strings || Project: Tip Calculator
 
 **Day 3 - January 7, 2023:**
 
