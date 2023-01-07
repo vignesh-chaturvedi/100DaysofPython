@@ -15,7 +15,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 2 - January 6, 2023:** Understanding Data Types and How to Manipulate Strings || Project: Tip Calculator
 
-**Day 3 - January 7, 2023:**
+**Day 3 - January 7, 2023:** Control Flow and Logical Operators || Project: Treasure Island
 
 **Day 4 - January 8, 2023:**
 
