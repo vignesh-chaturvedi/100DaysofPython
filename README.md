@@ -17,7 +17,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 3 - January 7, 2023:** Control Flow and Logical Operators || Project: Treasure Island
 
-**Day 4 - January 8, 2023:**
+**Day 4 - January 8, 2023:** Randomisation and Python Lists || Project: Rock Paper Scissors Game
 
 **Day 5 - January 9, 2023:**
 
