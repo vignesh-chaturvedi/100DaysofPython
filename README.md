@@ -61,3 +61,52 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 25 - January 29, 2023:**
 
+**Day 26 - January 30, 2023:**
+
+**Day 27 - January 31, 2023:**
+
+**Day 28 - February 1, 2023:**
+
+**Day 29 - February 2, 2023:**
+
+**Day 30 - February 3, 2023:**
+
+**Day 31 - February 4, 2023:**
+
+**Day 32 - February 5, 2023:**
+
+**Day 33 - February 6, 2023:**
+
+**Day 34 - February 7, 2023:**
+
+**Day 35 - February 8, 2023:**
+
+**Day 36 - February 9, 2023:**
+
+**Day 37 - February 10, 2023:**
+
+**Day 38 - February 11, 2023:**
+
+**Day 39 - February 12, 2023:**
+
+**Day 40 - February 13, 2023:**
+
+**Day 41 - February 14, 2023:**
+
+**Day 42 - February 15, 2023:**
+
+**Day 43 - February 16, 2023:**
+
+**Day 44 - February 17, 2023:**
+
+**Day 45 - February 18, 2023:**
+
+**Day 46 - February 19, 2023:**
+
+**Day 47 - February 20, 2023:**
+
+**Day 48 - February 21, 2023:**
+
+**Day 49 - February 22, 2023:**
+
+**Day 50 - February 23, 2023:**
