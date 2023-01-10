@@ -21,7 +21,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 5 - January 9, 2023:** Python Loops || Project: Password Generator
 
-**Day 6 - January 10, 2023:**
+**Day 6 - January 10, 2023:** Python Functions & Karel || Project: Escaping the Maze
 
 **Day 7 - January 11, 2023:**
 
