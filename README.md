@@ -27,7 +27,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 8 - January 12, 2023:** Function Parameters & Caesar Cipher || Project: Caesar Cipher 
 
-**Day 9 - January 13, 2023:**
+**Day 9 - January 13, 2023:** Dictionaries, Nesting and the Secret Auction || Project: Blind Auction
 
 **Day 10 - January 14, 2023:**
 
