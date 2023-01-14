@@ -29,7 +29,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 9 - January 13, 2023:** Dictionaries, Nesting and the Secret Auction || Project: Blind Auction
 
-**Day 10 - January 14, 2023:**
+**Day 10 - January 14, 2023:** Functions with Outputs || Project: Calculator
 
 **Day 11 - January 15, 2023:**
 
