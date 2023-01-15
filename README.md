@@ -31,7 +31,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 10 - January 14, 2023:** Functions with Outputs || Project: Calculator
 
-**Day 11 - January 15, 2023:**
+**Day 11 - January 15, 2023:** The Blackjack Capstone Project || Project: Blackjack Capstone Project
 
 **Day 12 - January 16, 2023:**
 
