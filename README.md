@@ -33,7 +33,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 11 - January 15, 2023:** The Blackjack Capstone Project || Project: Blackjack Capstone Project
 
-**Day 12 - January 16, 2023:**
+**Day 12 - January 16, 2023:** Scope & Number Guessing Game || Project: The Number Guessing Game
 
 **Day 13 - January 17, 2023:**
 
