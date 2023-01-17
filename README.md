@@ -35,7 +35,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 12 - January 16, 2023:** Scope & Number Guessing Game || Project: The Number Guessing Game
 
-**Day 13 - January 17, 2023:**
+**Day 13 - January 17, 2023:** Debugging - How to Find and Fix Errors in your Code || Project: NA (Just some basic debugging tips)
 
 **Day 14 - January 18, 2023:**
 
