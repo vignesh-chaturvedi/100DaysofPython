@@ -37,7 +37,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 13 - January 17, 2023:** Debugging - How to Find and Fix Errors in your Code || Project: NA (Just some basic debugging tips)
 
-**Day 14 - January 18, 2023:**
+**Day 14 - January 18, 2023:** Higher Lower Game Project || Project: Higher Lower Game
 
 **Day 15 - January 19, 2023:**
 
