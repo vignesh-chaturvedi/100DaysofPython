@@ -39,7 +39,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 14 - January 18, 2023:** Higher Lower Game Project || Project: Higher Lower Game
 
-**Day 15 - January 19, 2023:**
+**Day 15 - January 19, 2023:** Local Development Environment Setup & the Coffee Machine || Project: Coffee Machine
 
 **Day 16 - January 20, 2023:**
 
