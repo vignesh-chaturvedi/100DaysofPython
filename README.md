@@ -41,7 +41,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 15 - January 19, 2023:** Local Development Environment Setup & the Coffee Machine || Project: Coffee Machine
 
-**Day 16 - January 20, 2023:**
+**Day 16 - January 20, 2023:** Object Oriented Programming (OOP) || Project: Coffee Machine
 
 **Day 17 - January 21, 2023:**
 
