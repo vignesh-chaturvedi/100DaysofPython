@@ -43,9 +43,9 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 16 - January 20, 2023:** Object Oriented Programming (OOP) || Project: Coffee Machine
 
-**Day 17 - January 21, 2023:**
+**Day 17 - January 21, 2023:** The Quiz Project & the Benefits of OOP || Project: Quiz Game
 
-**Day 18 - January 22, 2023:**
+**Day 18 - January 22, 2023:** Turtle & the Graphical User Interface (GUI) || Project: Hirst Painting
 
 **Day 19 - January 23, 2023:**
 
