@@ -49,7 +49,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 19 - January 23, 2023:** Instances, State and Higher Order Functions || Project: Turtle Race
 
-**Day 20 - January 24, 2023:**
+**Day 20 - January 24, 2023:** Build the Snake Game Part 1 Animation & Coordinates || Project: Snake Game (PART 1)
 
 **Day 21 - January 25, 2023:**
 
