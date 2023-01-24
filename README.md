@@ -51,7 +51,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 20 - January 24, 2023:** Build the Snake Game Part 1 Animation & Coordinates || Project: Snake Game (PART 1)
 
-**Day 21 - January 25, 2023:**
+**Day 21 - January 25, 2023:** Build the Snake Game Part 2 Inheritance & List Slicing || Project: Snake Game (PART 2)
 
 **Day 22 - January 26, 2023:**
 
