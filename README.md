@@ -47,7 +47,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 18 - January 22, 2023:** Turtle & the Graphical User Interface (GUI) || Project: Hirst Painting
 
-**Day 19 - January 23, 2023:**
+**Day 19 - January 23, 2023:** Instances, State and Higher Order Functions || Project: Turtle Race
 
 **Day 20 - January 24, 2023:**
 
