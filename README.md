@@ -53,9 +53,9 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 21 - January 25, 2023:** Build the Snake Game Part 2 Inheritance & List Slicing || Project: Snake Game (PART 2)
 
-**Day 22 - January 26, 2023:**
+**Day 22 - January 26, 2023:** Build Pong The Famous Arcade Game || Project: Pong Game
 
-**Day 23 - January 27, 2023:**
+**Day 23 - January 27, 2023:** The Turtle Crossing Capstone Project || Project: Turtle Crossing Capstone
 
 **Day 24 - January 28, 2023:**
 
