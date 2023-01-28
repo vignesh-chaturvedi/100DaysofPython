@@ -57,7 +57,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 23 - January 27, 2023:** The Turtle Crossing Capstone Project || Project: Turtle Crossing Capstone
 
-**Day 24 - January 28, 2023:**
+**Day 24 - January 28, 2023:** Files, Directories and Paths || Project: Mail Merge
 
 **Day 25 - January 29, 2023:**
 
