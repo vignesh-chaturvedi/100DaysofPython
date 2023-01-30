@@ -61,7 +61,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 25 - January 29, 2023:** Working with CSV Data and the Pandas Library || Project: US States Game
 
-**Day 26 - January 30, 2023:**
+**Day 26 - January 30, 2023:** List Comprehension and the NATO Alphabet || Project: NATO Alphabet
 
 **Day 27 - January 31, 2023:**
 
