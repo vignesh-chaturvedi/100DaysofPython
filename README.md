@@ -63,7 +63,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 26 - January 30, 2023:** List Comprehension and the NATO Alphabet || Project: NATO Alphabet
 
-**Day 27 - January 31, 2023:**
+**Day 27 - January 31, 2023:** Tkinter, args, kwargs and Creating GUI Programs || Project: Basic GUI Program
 
 **Day 28 - February 1, 2023:**
 
