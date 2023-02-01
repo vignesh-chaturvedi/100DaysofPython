@@ -65,7 +65,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 27 - January 31, 2023:** Tkinter, args, kwargs and Creating GUI Programs || Project: Basic GUI Program
 
-**Day 28 - February 1, 2023:**
+**Day 28 - February 1, 2023:** Tkinter, Dynamic Typing and the Pomodoro GUI Application || Project: Pomodoro App
 
 **Day 29 - February 2, 2023:**
 
