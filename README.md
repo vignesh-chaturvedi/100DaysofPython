@@ -67,7 +67,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 28 - February 1, 2023:** Tkinter, Dynamic Typing and the Pomodoro GUI Application || Project: Pomodoro App
 
-**Day 29 - February 2, 2023:**
+**Day 29 - February 2, 2023:** Building a Password Manager GUI App with Tkinter || Project: Password Manager
 
 **Day 30 - February 3, 2023:**
 
