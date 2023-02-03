@@ -71,7 +71,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 30 - February 3, 2023:** Errors, Exceptions and JSON Data Improving the Password || Project: Passowrd Manager (Improved)
 
-**Day 31 - February 4, 2023:**
+**Day 31 - February 4, 2023:** Flash Card App Capstone Project || Project: Flash Card App
 
 **Day 32 - February 5, 2023:**
 
