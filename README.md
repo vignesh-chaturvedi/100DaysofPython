@@ -69,7 +69,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 29 - February 2, 2023:** Building a Password Manager GUI App with Tkinter || Project: Password Manager
 
-**Day 30 - February 3, 2023:**
+**Day 30 - February 3, 2023:** Errors, Exceptions and JSON Data Improving the Password || Project: Passowrd Manager (Improved)
 
 **Day 31 - February 4, 2023:**
 
