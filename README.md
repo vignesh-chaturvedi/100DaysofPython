@@ -73,7 +73,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 31 - February 4, 2023:** Flash Card App Capstone Project || Project: Flash Card App
 
-**Day 32 - February 5, 2023:**
+**Day 32 - February 5, 2023:** Send Email (smtplib) & Manage Dates (datetime) || Project: Birthday Wisher
 
 **Day 33 - February 6, 2023:**
 
