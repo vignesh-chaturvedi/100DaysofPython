@@ -75,7 +75,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 32 - February 5, 2023:** Send Email (smtplib) & Manage Dates (datetime) || Project: Birthday Wisher
 
-**Day 33 - February 6, 2023:**
+**Day 33 - February 6, 2023:** API Endpoints & API Parameters - ISS Overhead Notifier || Project: issoverhead
 
 **Day 34 - February 7, 2023:**
 
