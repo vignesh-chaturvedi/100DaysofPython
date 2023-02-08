@@ -79,7 +79,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 34 - February 7, 2023:** API Practice - Creating a GUI Quiz App || Project: GUI Quiz App
 
-**Day 35 - February 8, 2023:**
+**Day 35 - February 8, 2023:** Keys, Authentication & Environment Variables Send SMS || Project: Rain Alert
 
 **Day 36 - February 9, 2023:**
 
