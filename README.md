@@ -83,7 +83,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 36 - February 9, 2023:** Stock Trading News Alert Project || Project: Stock Trading News Alert
 
-**Day 37 - February 10, 2023:**
+**Day 37 - February 10, 2023:** API Post Requests & Headers || Project: Habbit Tracking
 
 **Day 38 - February 11, 2023:**
 
