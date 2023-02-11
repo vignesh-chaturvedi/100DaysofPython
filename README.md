@@ -85,7 +85,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 37 - February 10, 2023:** API Post Requests & Headers || Project: Habbit Tracking
 
-**Day 38 - February 11, 2023:**
+**Day 38 - February 11, 2023:** Workout Tracking Using Google Sheets || Project: Exercise Tracker
 
 **Day 39 - February 12, 2023:**
 
