@@ -87,7 +87,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 38 - February 11, 2023:** Workout Tracking Using Google Sheets || Project: Exercise Tracker
 
-**Day 39 - February 12, 2023:**
+**Day 39 - February 12, 2023:** Capstone Part 1 || Project: Flight Deal Finder
 
 **Day 40 - February 13, 2023:**
 
