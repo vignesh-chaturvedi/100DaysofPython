@@ -89,7 +89,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 39 - February 12, 2023:** Capstone Part 1 || Project: Flight Deal Finder
 
-**Day 40 - February 13, 2023:**
+**Day 40 - February 13, 2023:** Capstone Part 2 || Project: Flight Club
 
 **Day 41 - February 14, 2023:**
 
