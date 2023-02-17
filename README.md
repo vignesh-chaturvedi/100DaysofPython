@@ -97,7 +97,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 43 - February 16, 2023:** Web Foundation - Introduction to CSS || Project: Na
 
-**Day 44 - February 17, 2023:**
+**Day 44 - February 17, 2023:** Web Foundation - Intermediate CSS || Project: Na
 
 **Day 45 - February 18, 2023:**
 
