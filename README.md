@@ -99,7 +99,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 44 - February 17, 2023:** Web Foundation - Intermediate CSS || Project: Na
 
-**Day 45 - February 18, 2023:**
+**Day 45 - February 18, 2023:** Web Scraping with Beautiful Soup || Project: 100 Movies to Watch Scraper
 
 **Day 46 - February 19, 2023:**
 
