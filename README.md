@@ -101,7 +101,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 45 - February 18, 2023:** Web Scraping with Beautiful Soup || Project: 100 Movies to Watch Scraper
 
-**Day 46 - February 19, 2023:**
+**Day 46 - February 19, 2023:** Create a Spotify Playlist using the Musical Time Machine || Project: Music Time Machine
 
 **Day 47 - February 20, 2023:**
 
