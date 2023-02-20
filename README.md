@@ -103,7 +103,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 46 - February 19, 2023:** Create a Spotify Playlist using the Musical Time Machine || Project: Music Time Machine
 
-**Day 47 - February 20, 2023:**
+**Day 47 - February 20, 2023:** Create an Automated Amazon Price Tracker || Project: Amazon Price Tracker
 
 **Day 48 - February 21, 2023:**
 
