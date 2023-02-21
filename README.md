@@ -105,7 +105,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 47 - February 20, 2023:** Create an Automated Amazon Price Tracker || Project: Amazon Price Tracker
 
-**Day 48 - February 21, 2023:**
+**Day 48 - February 21, 2023:** Selenium Webdriver Browser and Game Playing Bot || Project: Cookie Clicker Game
 
 **Day 49 - February 22, 2023:**
 
