@@ -107,6 +107,6 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 48 - February 21, 2023:** Selenium Webdriver Browser and Game Playing Bot || Project: Cookie Clicker Game
 
-**Day 49 - February 22, 2023:**
+**Day 49 - February 22, 2023:** Automating Job Applications on LinkedIn || Project: Auto Job Application
 
 **Day 50 - February 23, 2023:**
