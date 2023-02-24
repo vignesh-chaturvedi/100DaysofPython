@@ -110,3 +110,13 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 **Day 49 - February 22, 2023:** Automating Job Applications on LinkedIn || Project: Auto Job Application
 
 **Day 50 - February 23, 2023:** Automation || Project: Auto Tinder Swiping Bot
+
+**Day 51 - February 24, 2023:** Automation || Project: Internet Speed Twitter Complaint Bot
+
+**Day 52 - February 25, 2023:**
+
+**Day 53 - February 26, 2023:**
+
+**Day 54 - February 27, 2023:**
+
+**Day 55 - February 28, 2023:**
