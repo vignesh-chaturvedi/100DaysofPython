@@ -113,7 +113,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 51 - February 24, 2023:** Automation || Project: Internet Speed Twitter Complaint Bot
 
-**Day 52 - February 25, 2023:**
+**Day 52 - February 25, 2023:** Automation || Project: Instagram Follower Bot
 
 **Day 53 - February 26, 2023:**
 
