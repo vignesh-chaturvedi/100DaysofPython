@@ -115,7 +115,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 52 - February 25, 2023:** Automation || Project: Instagram Follower Bot
 
-**Day 53 - February 26, 2023:**
+**Day 53 - February 26, 2023:** Web Scraping Capstone || Project: Data Entry Job Automation
 
 **Day 54 - February 27, 2023:**
 
