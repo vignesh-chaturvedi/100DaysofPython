@@ -119,4 +119,4 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 54 - February 27, 2023:** Introduction to Web Development with Flask || Project: Flask Intro
 
-**Day 55 - February 28, 2023:**
+**Day 55 - February 28, 2023:** HTML & URL Parsing in Flask || Project: Higher Lower Game
