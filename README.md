@@ -120,3 +120,43 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 **Day 54 - February 27, 2023:** Introduction to Web Development with Flask || Project: Flask Intro
 
 **Day 55 - February 28, 2023:** HTML & URL Parsing in Flask || Project: Higher Lower Game
+
+**Day 56 - March 1, 2023:** 
+
+**Day 57 - March 2, 2023:** 
+
+**Day 58 - March 3, 2023:** 
+
+**Day 59 - March 4, 2023:** 
+
+**Day 60 - March 5, 2023:** 
+
+**Day 61 - March 6, 2023:** 
+
+**Day 62 - March 7, 2023:** 
+
+**Day 63 - March 8, 2023:** 
+
+**Day 64 - March 9, 2023:** 
+
+**Day 65 - March 10, 2023:** 
+
+**Day 66 - March 11, 2023:** 
+
+**Day 67 - March 12, 2023:** 
+
+**Day 68 - March 13, 2023:** 
+
+**Day 69 - March 14, 2023:** 
+
+**Day 70 - March 15, 2023:** 
+
+**Day 71 - March 16, 2023:** 
+
+**Day 72 - March 17, 2023:** 
+
+**Day 73 - March 18, 2023:** 
+
+**Day 74 - March 19, 2023:** 
+
+**Day 75 - March 20, 2023:** 
