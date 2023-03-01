@@ -121,7 +121,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 55 - February 28, 2023:** HTML & URL Parsing in Flask || Project: Higher Lower Game
 
-**Day 56 - March 1, 2023:** 
+**Day 56 - March 1, 2023:** Rendering HTML Static files and Using Website Templates || Project: Name Card Website
 
 **Day 57 - March 2, 2023:** 
 
