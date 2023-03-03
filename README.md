@@ -125,7 +125,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 57 - March 2, 2023:** Templating with Jinja in Flask Applications || Project: Blog templating
 
-**Day 58 - March 3, 2023:** 
+**Day 58 - March 3, 2023:** Web Foundation Bootstrap || Project: TinDog Website
 
 **Day 59 - March 4, 2023:** 
 
