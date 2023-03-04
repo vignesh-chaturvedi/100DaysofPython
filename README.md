@@ -123,11 +123,11 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 56 - March 1, 2023:** Rendering HTML Static files and Using Website Templates || Project: Name Card Website
 
-**Day 57 - March 2, 2023:** Templating with Jinja in Flask Applications || Project: Blog templating
+**Day 57 - March 2, 2023:** Templating with Jinja in Flask Applications || Project: Blog templating Part 1
 
 **Day 58 - March 3, 2023:** Web Foundation Bootstrap || Project: TinDog Website
 
-**Day 59 - March 4, 2023:** 
+**Day 59 - March 4, 2023:** Adding Styling || Project: Blog Templating Part 2
 
 **Day 60 - March 5, 2023:** 
 
