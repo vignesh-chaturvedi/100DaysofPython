@@ -129,7 +129,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 59 - March 4, 2023:** Adding Styling || Project: Blog Templating Part 2
 
-**Day 60 - March 5, 2023:** 
+**Day 60 - March 5, 2023:** Flask || Project: Making POST Requests with Flask and HTML Forms
 
 **Day 61 - March 6, 2023:** 
 
