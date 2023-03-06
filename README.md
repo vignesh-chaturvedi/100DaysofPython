@@ -131,7 +131,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 60 - March 5, 2023:** Flask || Project: Making POST Requests with Flask and HTML Forms
 
-**Day 61 - March 6, 2023:** 
+**Day 61 - March 6, 2023:** Flask || Project: Building Advanced Forms with Flask-WTForms
 
 **Day 62 - March 7, 2023:** 
 
