@@ -133,7 +133,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 61 - March 6, 2023:** Flask || Project: Building Advanced Forms with Flask-WTForms
 
-**Day 62 - March 7, 2023:** 
+**Day 62 - March 7, 2023:** Flask, WTForms, Bootstrap and CSV || Project: Coffee & Wifi Project
 
 **Day 63 - March 8, 2023:** 
 
