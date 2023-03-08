@@ -135,7 +135,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 62 - March 7, 2023:** Flask, WTForms, Bootstrap and CSV || Project: Coffee & Wifi Project
 
-**Day 63 - March 8, 2023:** 
+**Day 63 - March 8, 2023:** Databases and with SQLite and SQLAlchemy || Project: Built a SQLite Database into the Flask Website
 
 **Day 64 - March 9, 2023:** 
 
