@@ -139,7 +139,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 64 - March 9, 2023:** Website Development || Project: My Top 10 Movies Website
 
-**Day 65 - March 10, 2023:** 
+**Day 65 - March 10, 2023:** Web Design School - How to Create a Website that People will Love || Project: Na
 
 **Day 66 - March 11, 2023:** 
 
