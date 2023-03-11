@@ -141,7 +141,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 65 - March 10, 2023:** Web Design School - How to Create a Website that People will Love || Project: Na
 
-**Day 66 - March 11, 2023:** 
+**Day 66 - March 11, 2023:** Building My Own API with RESTful Routing || Project: Cafe API
 
 **Day 67 - March 12, 2023:** 
 
