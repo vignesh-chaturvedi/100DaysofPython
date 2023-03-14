@@ -143,7 +143,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 66 - March 11, 2023:** Building My Own API with RESTful Routing || Project: Cafe API
 
-**Day 67 - March 12, 2023:** 
+**Day 67 - March 12, 2023:** RESTful Routing || Project: Blog Capstone Project Part 3
 
 **Day 68 - March 13, 2023:** 
 
