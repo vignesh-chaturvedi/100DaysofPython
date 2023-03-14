@@ -145,7 +145,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 67 - March 12, 2023:** RESTful Routing || Project: Blog Capstone Project Part 3
 
-**Day 68 - March 13, 2023:** 
+**Day 68 - March 13, 2023:** Flask || Project: Authentication with Flask
 
 **Day 69 - March 14, 2023:** 
 
