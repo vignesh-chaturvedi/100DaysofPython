@@ -155,7 +155,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 72 - March 17, 2023:** Data Visualisation with Matplotlib || Project: Data Visualisation of Programming Languages
 
-**Day 73 - March 18, 2023:** 
+**Day 73 - March 18, 2023:** Aggregate & Merge Data with Pandas || Project: Analysis of LEGO Dataset
 
 **Day 74 - March 19, 2023:** 
 
