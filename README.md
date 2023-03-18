@@ -149,7 +149,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 69 - March 14, 2023:** Relational Databases || Project: Blog Capstone Project Part 4 - Adding Users
 
-**Day 70 - March 15, 2023:** 
+**Day 70 - March 15, 2023:** Deploying Web Application with Heroku || Proejct: Na
 
 **Day 71 - March 16, 2023:** 
 
