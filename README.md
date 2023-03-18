@@ -153,7 +153,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 71 - March 16, 2023:** Data Exploration with Pandas || Project: College Major v.s. Your Salary
 
-**Day 72 - March 17, 2023:** 
+**Day 72 - March 17, 2023:** Data Visualisation with Matplotlib || Project: Data Visualisation of Programming Languages
 
 **Day 73 - March 18, 2023:** 
 
