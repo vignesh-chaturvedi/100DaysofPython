@@ -151,7 +151,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 70 - March 15, 2023:** Deploying Web Application with Heroku || Proejct: Na
 
-**Day 71 - March 16, 2023:** 
+**Day 71 - March 16, 2023:** Data Exploration with Pandas || Project: College Major v.s. Your Salary
 
 **Day 72 - March 17, 2023:** 
 
