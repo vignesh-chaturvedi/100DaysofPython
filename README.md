@@ -161,7 +161,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 75 - March 20, 2023:** Beautiful Plotly Charts || Project: Analysing the Android App Store
 
-**Day 76 - March 21, 2023:**
+**Day 76 - March 21, 2023:** NumPy || Project: Computation with NumPy and N-Dimensional Arrays
 
 **Day 77 - March 22, 2023:**
 
