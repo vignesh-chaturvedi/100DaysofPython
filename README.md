@@ -159,6 +159,13 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 74 - March 19, 2023:** Data Resampling and Visualising Time Series || Project: Google Trends Data Visualization
 
+**Day 75 - March 20, 2023:**
+
+**Day 76 - March 21, 2023:**
+
+**Day 77 - March 22, 2023:**
+
+**Day 78 - March 23, 2023:**
 
 
 **Day 74 - March 19, 2023:** 
