@@ -167,7 +167,3 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 78 - March 23, 2023:**
 
-
-**Day 74 - March 19, 2023:** 
-
-**Day 75 - March 20, 2023:** 
