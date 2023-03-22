@@ -163,7 +163,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 76 - March 21, 2023:** NumPy || Project: Computation with NumPy and N-Dimensional Arrays
 
-**Day 77 - March 22, 2023:**
+**Day 77 - March 22, 2023:** Seaborn || Project: Linear Regression and Data Visualisation with Seaborn
 
 **Day 78 - March 23, 2023:**
 
