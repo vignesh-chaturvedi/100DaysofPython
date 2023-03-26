@@ -168,3 +168,9 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 **Day 78 - March 23, 2023:** Plotly, Matplotlib, Seaborn || Project: Analysing the Nobel Prize
 
 **Day 79 - March 24, 2023:** The Tragic Discovery of Handwashing t-Tests & Distributions || Project: Dr Semmelweis Handwashing Discovery
+
+**Day 80 - March 25, 2023:** Multivariable Regression || Project: Predict House Prices
+
+**Day 81 - March 26, 2023:**
+
+**Day 82 - March 27, 2023:**
