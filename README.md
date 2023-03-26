@@ -171,6 +171,6 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 80 - March 25, 2023:** Multivariable Regression || Project: Predict House Prices
 
-**Day 81 - March 26, 2023:**
+**Day 81 - March 26, 2023:** Python Scripting || Project: Text to Morse Code Converter
 
 **Day 82 - March 27, 2023:**
