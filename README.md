@@ -173,4 +173,5 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 81 - March 26, 2023:** Python Scripting || Project: Text to Morse Code Converter
 
-**Day 82 - March 27, 2023:**
+**Day 82 - March 27, 2023:** Web Development || Project: Portfolio Website (Code is not public)
+
