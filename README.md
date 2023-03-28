@@ -175,3 +175,4 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 82 - March 27, 2023:** Web Development || Project: Portfolio Website (Code is not public)
 
+**Day 83 - March 28, 2023:** Python Scripting || Project: Tic Tac Toe (CLI)
