@@ -176,3 +176,21 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 **Day 82 - March 27, 2023:** Web Development || Project: Portfolio Website (Code is not public)
 
 **Day 83 - March 28, 2023:** Python Scripting || Project: Tic Tac Toe (CLI)
+
+**Day 84 - March 29, 2023:** GUI || Project: Image Watermarking Desktop App
+
+**Day 85 - March 30, 2023:**
+
+**Day 86 - March 31, 2023:**
+
+**Day 87 - April 1, 2023:**
+
+**Day 88 - April 2, 2023:**
+
+**Day 89 - April 3, 2023:**
+
+**Day 90 - April 4, 2023:**
+
+**Day 91 - April 5, 2023:**
+
+**Day 92 - April 6, 2023:**
