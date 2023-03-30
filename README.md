@@ -179,7 +179,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 84 - March 29, 2023:** GUI || Project: Image Watermarking Desktop App
 
-**Day 85 - March 30, 2023:**
+**Day 85 - March 30, 2023:** GUI || Project: Typing Speed Checker
 
 **Day 86 - March 31, 2023:**
 
