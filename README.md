@@ -181,7 +181,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 85 - March 30, 2023:** GUI || Project: Typing Speed Checker
 
-**Day 86 - March 31, 2023:**
+**Day 86 - March 31, 2023:** GUI || Project: Breakout Game
 
 **Day 87 - April 1, 2023:**
 
