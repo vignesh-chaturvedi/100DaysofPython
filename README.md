@@ -183,7 +183,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 86 - March 31, 2023:** GUI || Project: Breakout Game
 
-**Day 87 - April 1, 2023:**
+**Day 87 - April 1, 2023:** Web Development || Project: Cafe and WiFi Website
 
 **Day 88 - April 2, 2023:**
 
