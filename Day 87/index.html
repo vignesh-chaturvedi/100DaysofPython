@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Cafes</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js"></script>
+</head>
+<body>
+  <h1>Cafes</h1>
+
+  <form id="add-cafe-form">
+    <h2>Add a Cafe</h2>
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name" required>
+    <label for="city">City:</label>
+    <input type="text" id="city" name="city" required>
+    <label for="rating">Rating:</label>
+    <input type="number" id="rating" name="rating" min="1" max="5" required>
+    <button type="submit">Add</button>
+  </form>
+
+  <ul id="cafe-list">
+    <!-- Cafes will be added dynamically using JavaScript -->
+  </ul>
+
+  <script>
+    // Load cafes on page load
+    window.onload = function() {
+      loadCafes();
+    }
+
+    // Handle form submission to add a new cafe
+    document.getElementById("add-cafe-form").addEventListener("submit", function(event) {
+      event.preventDefault();
+      addCafe();
+    });
+  </script>
+</body>
+</html>
