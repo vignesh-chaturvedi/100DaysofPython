@@ -185,7 +185,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 87 - April 1, 2023:** Web Development || Project: Cafe and WiFi Website
 
-**Day 88 - April 2, 2023:**
+**Day 88 - April 2, 2023:** Web Development || Project: ToDo List
 
 **Day 89 - April 3, 2023:**
 
