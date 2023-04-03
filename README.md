@@ -187,7 +187,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 88 - April 2, 2023:** Web Development || Project: ToDo List
 
-**Day 89 - April 3, 2023:**
+**Day 89 - April 3, 2023:** GUI || Project: Disappearing Text Writing App
 
 **Day 90 - April 4, 2023:**
 
