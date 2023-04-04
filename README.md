@@ -189,7 +189,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 89 - April 3, 2023:** GUI || Project: Disappearing Text Writing App
 
-**Day 90 - April 4, 2023:**
+**Day 90 - April 4, 2023:** HTTP Requests & APIs || Project: Convert PDF to Audiobook
 
 **Day 91 - April 5, 2023:**
 
