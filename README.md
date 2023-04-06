@@ -193,4 +193,4 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 91 - April 5, 2023:** Image Processing & Data Science || Project: Image Colour Palette Generator
 
-**Day 92 - April 6, 2023:**
+**Day 92 - April 6, 2023:** Web Scraping || Project: Custom Web Scraper
