@@ -194,3 +194,19 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 **Day 91 - April 5, 2023:** Image Processing & Data Science || Project: Image Colour Palette Generator
 
 **Day 92 - April 6, 2023:** Web Scraping || Project: Custom Web Scraper
+
+**Day 93 - April 7, 2023:** GUI Automation || Project: Automate the Google Dinosaur Game
+
+**Day 94 - April 8, 2023:**
+
+**Day 95 - April 9, 2023:**
+
+**Day 96 - April 10, 2023:**
+
+**Day 97 - April 11, 2023:**
+
+**Day 98 - April 12, 2023:**
+
+**Day 99 - April 13, 2023:**
+
+**Day 100 - April 14, 2023:**
