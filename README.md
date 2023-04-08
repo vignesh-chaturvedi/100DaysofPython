@@ -197,7 +197,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 93 - April 7, 2023:** GUI Automation || Project: Automate the Google Dinosaur Game
 
-**Day 94 - April 8, 2023:**
+**Day 94 - April 8, 2023:** Game || Project: Space Invaders
 
 **Day 95 - April 9, 2023:**
 
