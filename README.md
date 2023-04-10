@@ -201,7 +201,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 95 - April 9, 2023:** HTTP Requests & APIs || Project: Custom API Based Website
 
-**Day 96 - April 10, 2023:**
+**Day 96 - April 10, 2023:** Web Development || Project: An Online Shop
 
 **Day 97 - April 11, 2023:**
 
