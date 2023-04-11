@@ -203,7 +203,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 96 - April 10, 2023:** Web Development || Project: An Online Shop
 
-**Day 97 - April 11, 2023:**
+**Day 97 - April 11, 2023:** Python Automation || Project: Custom Automation
 
 **Day 98 - April 12, 2023:**
 
