@@ -205,7 +205,7 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 97 - April 11, 2023:** Python Automation || Project: Custom Automation
 
-**Day 98 - April 12, 2023:**
+**Day 98 - April 12, 2023:** Data Science || Project: Analyse and Visualise the Space Race
 
 **Day 99 - April 13, 2023:**
 
