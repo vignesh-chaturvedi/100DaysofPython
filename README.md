@@ -209,4 +209,4 @@ I am currently working through [*100 Days of Code: The Complete Python Pro Bootc
 
 **Day 99 - April 13, 2023:** Data Science || Project: Analyse Deaths involving Police in the United States
 
-**Day 100 - April 14, 2023:** 
+**Day 100 - April 14, 2023:** Data Science || Project: Predict Earnings using Multivariable Regression
